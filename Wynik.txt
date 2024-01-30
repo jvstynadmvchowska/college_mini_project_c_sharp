@@ -1,0 +1,142 @@
+				BBBBB     M     M    W       W
+				B     B    MM   MM    W       W
+				B     B    M M M M    W   W   W
+				BBBBB      M  M  M    W W W W
+				B     B    M     M    WW   WW
+				B     B    M     M    W     W
+				BBBBB      M     M    W     W
+					Salon sprzedaży
+	Wszystkie samochody w salonie:
+
+Marka: BMW, Model: M3, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: M5, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 60 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 93 kWh
+Marka: BMW, Model: 330e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 40 kWh
+Marka: BMW, Model: X5, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X7, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: i4, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: 530e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 50 kWh
+Marka: BMW, Model: M2, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: M8, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: iX3, Rok produkcji: 2022 Pojemność baterii: 65 kWh
+Marka: BMW, Model: 745e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 45 kWh
+Marka: BMW, Model: X3, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X6, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: i8, Rok produkcji: 2022 Pojemność baterii: 75 kWh
+Marka: BMW, Model: X1 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 55 kWh
+Marka: BMW, Model: 330i, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: 430i, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: iX5, Rok produkcji: 2022 Pojemność baterii: 80 kWh
+Marka: BMW, Model: X2 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 60 kWh
+	Salon samochodowy został zapisany do pliku.
+
+	Usuwanie samochodu z salonu...
+
+	Wszystkie samochody po usunięciu:
+
+Marka: BMW, Model: M5, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 60 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 93 kWh
+Marka: BMW, Model: 330e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 40 kWh
+Marka: BMW, Model: X5, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X7, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: i4, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: 530e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 50 kWh
+Marka: BMW, Model: M2, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: M8, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: iX3, Rok produkcji: 2022 Pojemność baterii: 65 kWh
+Marka: BMW, Model: 745e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 45 kWh
+Marka: BMW, Model: X3, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X6, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: i8, Rok produkcji: 2022 Pojemność baterii: 75 kWh
+Marka: BMW, Model: X1 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 55 kWh
+Marka: BMW, Model: 330i, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: 430i, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: iX5, Rok produkcji: 2022 Pojemność baterii: 80 kWh
+Marka: BMW, Model: X2 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 60 kWh
+	Salon samochodowy został wczytany z pliku.
+
+	Wczytane samochody z pliku:
+
+Marka: BMW, Model: M3, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: M5, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 60 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 93 kWh
+Marka: BMW, Model: 330e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 40 kWh
+Marka: BMW, Model: X5, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X7, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: i4, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: 530e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 50 kWh
+Marka: BMW, Model: M2, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: M8, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: iX3, Rok produkcji: 2022 Pojemność baterii: 65 kWh
+Marka: BMW, Model: 745e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 45 kWh
+Marka: BMW, Model: X3, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X6, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: i8, Rok produkcji: 2022 Pojemność baterii: 75 kWh
+Marka: BMW, Model: X1 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 55 kWh
+Marka: BMW, Model: 330i, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: 430i, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: iX5, Rok produkcji: 2022 Pojemność baterii: 80 kWh
+Marka: BMW, Model: X2 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 60 kWh
+
+	Wyświetlanie samochodów według poszukiwanego wzorca (delegat i funkcja anonimowa):
+
+
+Marka: BMW, Model: M2, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+
+	Wyświetlanie posortowanych po roku produkcji, a elektryczne następnie po pojemności baterii malejąco:
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 93 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 60 kWh
+Marka: BMW, Model: X5, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: 330i, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: i4, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: M2, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: iX5, Rok produkcji: 2022 Pojemność baterii: 80 kWh
+Marka: BMW, Model: i8, Rok produkcji: 2022 Pojemność baterii: 75 kWh
+Marka: BMW, Model: iX3, Rok produkcji: 2022 Pojemność baterii: 65 kWh
+Marka: BMW, Model: X3, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: M5, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: 430i, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X1 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 55 kWh
+Marka: BMW, Model: M8, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: 745e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 45 kWh
+Marka: BMW, Model: 530e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 50 kWh
+Marka: BMW, Model: X7, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: 330e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 40 kWh
+Marka: BMW, Model: X6, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: X2 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 60 kWh
+
+	Wyświetlanie po modelu:
+Marka: BMW, Model: 330e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 40 kWh
+Marka: BMW, Model: 330i, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: 430i, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: 530e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 50 kWh
+Marka: BMW, Model: 745e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 45 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 93 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: i3, Rok produkcji: 2022 Pojemność baterii: 60 kWh
+Marka: BMW, Model: i4, Rok produkcji: 2022 Pojemność baterii: 70 kWh
+Marka: BMW, Model: i8, Rok produkcji: 2022 Pojemność baterii: 75 kWh
+Marka: BMW, Model: iX3, Rok produkcji: 2022 Pojemność baterii: 65 kWh
+Marka: BMW, Model: iX5, Rok produkcji: 2022 Pojemność baterii: 80 kWh
+Marka: BMW, Model: M2, Rok produkcji: 2022 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: M5, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: M8, Rok produkcji: 2023 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X1 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 55 kWh
+Marka: BMW, Model: X2 xDrive25e, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY, ELEKTRYCZNY Pojemność baterii: 60 kWh
+Marka: BMW, Model: X3, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X5, Rok produkcji: 2022 Rodzaj silnika: DIESEL
+Marka: BMW, Model: X6, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+Marka: BMW, Model: X7, Rok produkcji: 2023 Rodzaj silnika: BENZYNOWY
+
+	Test obsługi wyjątków:
+Samochody hybrydowe tworzymy jako hybrydowe, a nie spalinowe!
+Samochód hybrydowy składa się z silnika elektrycznego oraz spalinowego!
+Samochód hybrydowy składa się z silnika elektrycznego oraz spalinowego!
+Samochód hybrydowy składa się z silnika elektrycznego oraz spalinowego!
